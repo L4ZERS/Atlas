@@ -4,6 +4,12 @@
     "Active": true,
     "RewardType": "Robux",
     "RewardValue": "10000000"
+},
+
+"SecretBooth": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "ZenuuxBooth"
 }
 
 }
